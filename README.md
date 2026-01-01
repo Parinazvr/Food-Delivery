@@ -54,3 +54,12 @@ frontend/
 - Manage global state using **React Context API**
 - Improve project structure and code organization
 - Gain hands-on experience with **Vite** as a modern build tool
+
+---
+
+## 🎥 Demo
+
+![Food Delivery Demo]
+
+https://github.com/user-attachments/assets/38323f2b-7738-4c1a-b51b-12cf0c82062a
+(demo.gif)
